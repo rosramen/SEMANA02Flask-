@@ -1,4 +1,4 @@
-# Maestro de Tareas
+# Maestro de Tareas de Rosendo
 
 Una aplicación web sencilla desarrollada con **Python**, **Flask** y **SQLite3** que permite a los usuarios gestionar tareas. Incluye funcionalidades para agregar, actualizar y eliminar tareas.
 
