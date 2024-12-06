@@ -42,7 +42,7 @@ def delete(id):
         db.session.commit()
         return redirect('/')
     except:
-        return 'Error al borrarbla actividad'
+        return 'Error al borrar la actividad'
      
 
 
