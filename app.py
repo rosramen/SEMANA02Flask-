@@ -26,7 +26,7 @@ def index():
             db.session.commit()
             return redirect('/')
         except:
-            return 'There was an issue adding your task'
+            return 'Hay un problema para agregar la actividad'
 
     else:
         tasks = Todo.query.order_by(Todo.id).all()
@@ -42,7 +42,7 @@ def delete(id):
         db.session.commit()
         return redirect('/')
     except:
-        return 'There was a problem deleting that task'
+        return 'Error al borrarbla actividad'
      
 
 
@@ -57,7 +57,7 @@ def update(id):
             db.session.commit()
             return redirect('/')
         except:
-            return 'There was an issue updating your task'
+            return 'Error al actualizar'
 
     else:
         return render_template('update.html', task=task)
