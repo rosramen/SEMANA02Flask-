@@ -36,7 +36,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 - Clona el repositorio:
       git clone https://github.com/rosramen/SEMANA02Flask-.git
 
-      cd MaestroDeTareas
+      cd SEMANA02Flask-
 
 - Crea un entorno virtual:
 
