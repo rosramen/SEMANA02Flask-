@@ -35,7 +35,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 
 - Clona el repositorio:
 
-      git clone https://github.com/Arturo218/MaestroDeTareas.git
+      git clone https://github.com/rosramen/SEMANA02Flask-.git
 
       cd MaestroDeTareas
 
@@ -55,4 +55,4 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 
       python app.py
 
-      Abre un navegador web e ingresa a http://127.0.0.1:5000 para acceder a la aplicación Web.
+      Abre un navegador web e ingresa a http:localhost:5000 para acceder a la aplicación Web.
