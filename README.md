@@ -33,12 +33,12 @@ Una aplicación web sencilla desarrollada con **Python**, **Flask** y **SQLite3*
 
 Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 
-- Clona el repositorio:
+- Clonar el repositorio:
       git clone https://github.com/rosramen/SEMANA02Flask-.git
 
       cd SEMANA02Flask-
 
-- Crea un entorno virtual:
+- Crear un entorno virtual:
 
       python -m venv env
 
@@ -46,12 +46,12 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 
       source env/bin/activate  # En Windows: .\env\Scripts\activate
 
-- Instala las dependencias desde la termina:
+- Instalar las dependencias desde la termina:
 
       pip install -r requirements.txt
 
-- Ejecuta la aplicación:
+- Ejecutar la aplicación:
 
       python app.py
 
-      Abre un navegador web e ingresa a http:localhost:5000 para acceder a la aplicación Web.
+      Abrir un navegador web e ingresa a http:localhost:5000 para acceder a la aplicación Web.
