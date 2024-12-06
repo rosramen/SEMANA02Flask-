@@ -54,4 +54,4 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local desde el cmd:
 
       python app.py
 
-      Abrir un navegador web e ingresa a http:localhost:5000 para acceder a la aplicación Web.
+      Abrir un navegador web e ingresar a http:localhost:5000 para acceder a la aplicación Web.
